@@ -1,0 +1,6 @@
+id,date,amount,category,description
+1,2026-01-05,200000.0,Food,Groceries for the week
+2,2025-12-31,15000.0,Transport,petrol for bike
+3,2025-12-30,1000.0,Entertainment,Watched a movie
+4,2025-12-29,5000.0,Shopping,Online order from amazon
+5,2025-12-28,3000.0,Other,wifi bill
